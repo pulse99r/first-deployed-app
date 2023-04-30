@@ -1,13 +1,13 @@
-import logo from './logo.svg';
+import logo from './cockatoo.jpeg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="img-size" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Cockatoo - my faviorite animal or bird!
         </p>
         <a
           className="App-link"
