@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="img-size" alt="logo" />
         <p>
-          Cockatoo - my faviorite animal or bird!
+          Cockatoo - my faviorite animal or bird!<br />
           Type of cockatoo made popular on the TV show "Baretta"
         </p>
         <a
