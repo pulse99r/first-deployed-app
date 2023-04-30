@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="img-size" alt="logo" />
         <p>
           Cockatoo - my faviorite animal or bird!
+          Type of cockatoo made popular on the TV show "Baretta"
         </p>
         <a
           className="App-link"
